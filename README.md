@@ -83,9 +83,9 @@
 <br clear="both">
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src=".asset/Fashion Shut Up GIF.gif"  />
-  <img data-importer="image" height="200" src=".asset/Aespa GIF.gif"  />
-  <img data-importer="image" height="200" src=".asset/Angry K Pop GIF.gif"  />
+  <img data-importer="image" height="100" src=".asset/Fashion Shut Up GIF.gif"  />
+  <img data-importer="image" height="100" src=".asset/Aespa GIF.gif"  />
+  <img data-importer="image" height="100" src=".asset/Angry K Pop GIF.gif"  />
 </div>
 
 ###
