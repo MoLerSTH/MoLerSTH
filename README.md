@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img data-importer="image" align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDZ5aDU3Z2UyOGZ5YXlnb2hvdmQ3NXFycWg2ZnI4cjR5cWcwYXE0OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/i5QvJ23xQuit5GkJ08/giphy.gif"  />
+<img data-importer="image" align="right" height="200" src="https://media.giphy.com/media/i5QvJ23xQuit5GkJ08/giphy.gif"  />
 
 ###
 
