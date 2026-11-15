@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img data-importer="image" align="right" height="200" src="./asset/Fashion Shut Up GIF.gif"  />
+<img data-importer="image" align="right" height="200" src=".asset/Fashion Shut Up GIF.gif"  />
 
 ###
 
