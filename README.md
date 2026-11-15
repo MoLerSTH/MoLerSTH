@@ -1,3 +1,9 @@
+<br clear="both">
+
+<img data-importer="image" align="right" height="200" src=".asset/Fashion Shut Up GIF.gif"  />
+
+###
+
 <h1 data-importer="text" align="center">Hi! This is MoLerSTH's GitHub Homepage</h1>
 
 ###
@@ -7,12 +13,6 @@
 ###
 
 <h2 data-importer="text" align="left">Frameworks & Programming Languages</h2>
-
-###
-
-<br clear="both">
-
-<img data-importer="image" align="right" height="200" src=".asset/Fashion Shut Up GIF.gif"  />
 
 ###
 
