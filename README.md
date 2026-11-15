@@ -6,8 +6,6 @@
 
 <h1 data-importer="text" align="center">Hi! This is MoLerSTH's GitHub Homepage</h1>
 
-###
-
 <p data-importer="text" align="center">Let me start with a quick introduction. My name is Hattakorn Pongsawai, but you can call me "Gusto".<br>I’m currently a 3rd-year Software Engineering student at Thammasat University.<br>I’m mainly interested in Software Engineering with a focus on Backend, <br>though I’m totally up for Full-stack as well! haha.</p>
 
 ###
