@@ -2,21 +2,17 @@
 
 ###
 
+<p data-importer="text" align="center">Let me start with a quick introduction. My name is Hattakorn Pongsawai, but you can call me "Gusto".<br>I’m currently a 3rd-year Software Engineering student at Thammasat University.<br>I’m mainly interested in Software Engineering with a focus on Backend, <br>though I’m totally up for Full-stack as well! haha 😉.</p>
+
+###
+
 <br clear="both">
 
-<img data-importer="image" align="right" height="200" src=".asset/Fashion Shut Up GIF.gif"  />
+<h2 data-importer="text" align="center">Frameworks & Programming Languages</h2>
 
 ###
 
-<p data-importer="text" align="center">Let me start with a quick introduction. My name is Hattakorn Pongsawai, but you can call me "Gusto".<br>I’m currently a 3rd-year Software Engineering student at Thammasat University.<br>I’m mainly interested in Software Engineering with a focus on Backend, <br>though I’m totally up for Full-stack as well! haha.</p>
-
-###
-
-<h2 data-importer="text" align="left">Frameworks & Programming Languages</h2>
-
-###
-
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -48,11 +44,11 @@
 
 ###
 
-<h2 data-importer="text" align="left">Tools & Infrastructures</h2>
+<h2 data-importer="text" align="center">Tools & Infrastructures</h2>
 
 ###
 
-<div data-importer="techs" align="left">
+<div data-importer="techs" align="center">
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -84,6 +80,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src=".asset/Fashion Shut Up GIF.gif"  />
+  <img data-importer="image" height="200" src=".asset/Aespa GIF.gif"  />
+  <img data-importer="image" height="200" src=".asset/Angry K Pop GIF.gif"  />
 </div>
 
 ###
